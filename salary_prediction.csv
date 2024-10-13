@@ -1,0 +1,12 @@
+Job_Title,Years_of_Experience,Education_Level,Skills,Location,Salary
+"Data Scientist",3,"Masters","Python, R, SQL","New York",95000
+"Data Analyst",2,"Bachelors","Excel, SQL","San Francisco",80000
+"Machine Learning Engineer",5,"Masters","Python, TensorFlow","Chicago",120000
+"Data Engineer",4,"Bachelors","SQL, Hadoop, Spark","Seattle",110000
+"Business Analyst",3,"Bachelors","SQL, Tableau","Austin",75000
+"Data Scientist",1,"Masters","Python, SQL","Los Angeles",85000
+"Statistician",2,"PhD","R, SAS","Boston",78000
+"Data Scientist",6,"Masters","Python, Deep Learning","New York",130000
+"Machine Learning Engineer",3,"Bachelors","Python, Scikit-learn","San Francisco",115000
+"Senior Data Scientist",10,"PhD","Python, Deep Learning","New York",200000
+"Junior Data Scientist",0,"Bachelors","Python, SQL","Miami",40000
