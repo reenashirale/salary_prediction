@@ -1,12 +1,16 @@
 Job_Title,Years_of_Experience,Education_Level,Skills,Location,Salary
-"Data Scientist",3,"Masters","Python, R, SQL","New York",95000
-"Data Analyst",2,"Bachelors","Excel, SQL","San Francisco",80000
-"Machine Learning Engineer",5,"Masters","Python, TensorFlow","Chicago",120000
-"Data Engineer",4,"Bachelors","SQL, Hadoop, Spark","Seattle",110000
-"Business Analyst",3,"Bachelors","SQL, Tableau","Austin",75000
-"Data Scientist",1,"Masters","Python, SQL","Los Angeles",85000
-"Statistician",2,"PhD","R, SAS","Boston",78000
-"Data Scientist",6,"Masters","Python, Deep Learning","New York",130000
-"Machine Learning Engineer",3,"Bachelors","Python, Scikit-learn","San Francisco",115000
-"Senior Data Scientist",10,"PhD","Python, Deep Learning","New York",200000
-"Junior Data Scientist",0,"Bachelors","Python, SQL","Miami",40000
+"Data Scientist",3,"Masters","Python, R, SQL","Bangalore",950000
+"Data Analyst",2,"Bachelors","Excel, SQL","Mumbai",800000
+"Machine Learning Engineer",5,"Masters","Python, TensorFlow","Delhi",1200000
+"Data Engineer",4,"Bachelors","SQL, Hadoop, Spark","Hyderabad",1100000
+"Business Analyst",3,"Bachelors","SQL, Tableau","Pune",750000
+"Data Scientist",1,"Masters","Python, SQL","Chennai",850000
+"Statistician",2,"PhD","R, SAS","Bangalore",780000
+"Data Scientist",6,"Masters","Python, Deep Learning","Bangalore",1300000
+"Machine Learning Engineer",3,"Bachelors","Python, Scikit-learn","Mumbai",1150000
+"Senior Data Scientist",10,"PhD","Python, Deep Learning","Bangalore",3000000
+"Junior Data Scientist",0,"Bachelors","Python, SQL","Delhi",400000
+"Business Intelligence Analyst",4,"Masters","SQL, Power BI","Hyderabad",900000
+"Data Analyst",5,"Bachelors","Excel, SQL","Mumbai",850000
+"Machine Learning Intern",1,"Bachelors","Python, TensorFlow","Pune",250000
+"Senior Data Engineer",8,"Masters","SQL, Spark, Cloud","Bangalore",2000000
